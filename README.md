@@ -1,4 +1,4 @@
-Credit Risk Prediction using ML Models
+# Credit Risk Prediction using ML Models
 
 This project aims to predict the probability of loan default using a real-world dataset from Home Credit. We trained models using Logistic Regression, Random Forest, and XGBoost to identify high-risk applicants.
 
