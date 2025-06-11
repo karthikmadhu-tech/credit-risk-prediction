@@ -1,5 +1,5 @@
 <p align="center">
-![image](https://github.com/user-attachments/assets/9ef1d518-02bb-48bb-9a8b-efaf9b6021e0)
+<img width="381" alt="image" src="https://github.com/user-attachments/assets/16af1630-5f30-4f5c-996d-b861d84154bf" />
 </p>
 
 # Credit Risk Prediction using Machine Learning
