@@ -64,7 +64,7 @@ credit-risk-prediction/
 
 1. **Clone the repo**  
    
-   git clone https://github.com/your-username/credit-risk-prediction.git
+   git clone https:[//github.com/your-username/credit-risk-prediction.git](https://github.com/karthikmadhu-tech/credit-risk-prediction.git)
    cd credit-risk-prediction
 
 2. **Create & activate environment**
