@@ -4,13 +4,6 @@
 
 # Credit Risk Prediction using Machine Learning
 
-[![Python][python-badge]][python-link]
-[![Streamlit][streamlit-badge]][streamlit-link]
-[![Open In Colab][colab-badge]][colab-link]
-[![License: MIT][license-badge]][license-link]
-[![Last Commit][commit-badge]][repo-link]
-
----
 
 ## 🚀 Project Overview
 
