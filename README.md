@@ -84,7 +84,7 @@ credit-risk-prediction/
 
 ### 1. Google Colab Notebook
 
-* Open in Colab: [![Open In Colab][colab-badge]][colab-link]
+* Open in Colab
 * The notebook **Credit\_risk\_prediction.ipynb** includes sections for data exploration, feature engineering, model training, evaluation, **and an embedded Streamlit app demo**.
 
 **To run the Streamlit demo within Colab:**
