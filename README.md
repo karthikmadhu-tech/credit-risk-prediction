@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/credit-risk-banner.png" alt="Credit Risk Prediction" width="800"/>
+![image](https://github.com/user-attachments/assets/9ef1d518-02bb-48bb-9a8b-efaf9b6021e0)
 </p>
 
 # Credit Risk Prediction using Machine Learning
@@ -133,9 +133,6 @@ print('Streamlit app URL:', public_url)
 
 ## 📈 Sample Results
 
-<p align="center">
-  <img src="assets/roc_curves.png" alt="ROC Curves Comparison" width="600"/>
-</p>
 
 * **XGBoost** achieved **ROC AUC: 0.75** (Test)
 * Feature importance highlights **EXT\_SOURCE\_2**, **DAYS\_BIRTH**, and **AMT\_INCOME\_TOTAL** as top predictors
